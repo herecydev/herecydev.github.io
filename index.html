@@ -27,10 +27,15 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h1>
-<a id="herecydevgithubio" class="anchor" href="#herecydevgithubio" aria-hidden="true"><span class="octicon octicon-link"></span></a>herecydev.github.io</h1>
-
-<p>Collection of blog posts</p>
+<div class="posts">
+      	{% for post in site.posts %}
+      	<article class="post">
+      		<div class="content">
+      			{{ post.content }}
+      		</div>
+      	</article>
+      	{% endfor %}
+      </div>
       </section>
     </div>
 
