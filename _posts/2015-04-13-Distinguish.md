@@ -16,4 +16,4 @@ Before delving into useful techniques and patterns which will change the way you
 It’s common to face time pressures. In the eyes of the typical, bad manager “if you’re not writing code, you’re not working”. Don’t collapse under this pressure thinking you’re not being productive; persevere with planning until you feel comfortable with the direction you’re heading but don’t over analyze. Often, spiking a technical piece can eliminate the feeling of “I don’t know where to start” and gives you a platform for inspiration.
 
 > Frank said it had to be done by the date. That was all there was to it. The date would come, and we would be done. Period. No discussion. Over and out ... So we went live on the date. And it was a blazing disaster.
-> - The Clean Coder, Robert C. Martin
+> - [The Clean Coder](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1326135682&sr=1-1), Robert C. Martin
