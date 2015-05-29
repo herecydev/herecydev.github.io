@@ -18,9 +18,9 @@ Itâ€™s common to face time pressures. In the eyes of the typical, bad manager â€
 > Frank said it had to be done by the date. That was all there was to it. The date would come, and we would be done. Period. No discussion. Over and out ... So we went live on the date. And it was a blazing disaster.
 > - [The Clean Coder](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=sr_1_1?s=books&ie=UTF8&qid=1326135682&sr=1-1), Robert C. Martin
 
-Frequently you will encounter a new technology, a new pattern or even a class you don't have knowledge about. Don't squander the oppurtunity to learn about this; you stumbled accross this because it was related to something you were doing. Only through understanding it can you use it correctly or know when it's used incorrectly, its strengths and weaknesses. If you take the easy route and skip it *because* you didn't apply yourself then you will forever tell yourself it's not worth looking over.
+Frequently you will encounter a new technology, a new pattern or even a class you don't have knowledge of. Don't squander the opportunity to learn about this; you stumbled across this because it was related to something you were doing. Only through understanding it can you use it correctly or know when it's used incorrectly, its strengths and weaknesses. If you take the easy route and skip it *because* you didn't apply any effort then you will forever tell yourself "it's not worth looking over".
 
 > Do not pray for an easy life, pray for the strength to endure a difficult one.
 > - Bruce Lee
 
-That's it. The teachings should be clear; don't let others pressure you into doing the wrong thing and don't succumb to the temptation of ease. Constantly challenge yourself; it'll pay dividends soon. I promise you.
+The teachings should be clear; don't let others pressure you into doing the wrong thing and don't succumb to the temptation of ease. Constantly challenge yourself; it'll pay dividends soon. I promise you.
