@@ -23,4 +23,4 @@ Frequently you will encounter a new technology, a new pattern or even a class yo
 > Do not pray for an easy life, pray for the strength to endure a difficult one.
 > - Bruce Lee
 
-That's it. The teachings should be clear; don't let others pressure you into doing the wrong thing and don't succumb to the temptation of ease. Constantly challenge yourself; it'll pay dividends soon. 
+That's it. The teachings should be clear; don't let others pressure you into doing the wrong thing and don't succumb to the temptation of ease. Constantly challenge yourself; it'll pay dividends soon. I promise you.
