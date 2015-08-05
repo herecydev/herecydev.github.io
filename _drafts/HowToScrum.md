@@ -24,11 +24,24 @@ Scrum master - Facilitate the team in accomplishing all of the items, ensuring t
 
 So why does every team think they are a boundary case? You've all heard this one, "we just work in a different way" or "we tried it and it didn't work". Something so incredibly simply cannot be that difficult to follow. Let's explore some of the common enemies of Scrum;
 
-## Enemy #1
+## Enemy #1: Reactive
 Typical guises: 
 Managers, company employees
 
 Quotes:
 > The team don't react to high priorities; it's better when the team can switch to what's more important.
 
-A product owner has a prioritized list of items that he/she wants to be completed by the team. Through being transparent, the team has let the product owner know what they will deliver at the end of the sprint. Often these enemies will seek to push their agenda as being the most important. Only with complete omnividence can you assess that 
+A product owner has a prioritized list of items that he/she wants to be completed by the team. Through being transparent, the team has let the product owner know what they will deliver at the end of the sprint. Often these enemies will seek to push their agenda as being the most important. Only with complete omnividence can you assess priority, and that's something the product owner is enlisted to do. The success of the sprint lies within the abstraction away from external influences; only through complete focus on the items at hand can a team be able to complete the sprint and deliver.
+The display of arrogance by assuming you are more important than others is **egregious**. Work with the product owner to have your features developed in due course.
+
+## Enemy #2: Making priority
+Typical guises: 
+Developers
+
+Quotes:
+> He said it was important; I should do it immediately.
+
+> "Multitasking does not work," says Hanselman. "The optimal number of threads in any system is one thread. That is a computer science fact and if you think you can multitask, you're wrong."
+> - [Scott Hanselman](http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx)
+
+Interruptions and multitasking are bad for efficiency. By allowing yourself to 
