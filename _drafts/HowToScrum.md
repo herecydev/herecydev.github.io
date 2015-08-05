@@ -1,8 +1,10 @@
-# How To: SCRUM
+# How To: Scrum
 
-Boy this is a mess in the software development world if ever I've seen one. SCRUM seems to be a magic word that people conjure up in an interview or to the suits. *Newsflash: It's not the 90s anymore!* Let's stop trying to impress people and start using it for what it is; a damn good software development methodology.
+Boy this is a mess in the software development world if ever I've seen one. Scrum seems to be a magic word that people conjure up in an interview or to the suits. *Newsflash: It's not the 90s anymore!* Let's stop trying to impress people and start using it for what it is; a damn good software development methodology. The amount of people misquoting that they use Scrum is fraudulent. Let's clear the air on this...
 
-## I missed the memo, what is it? 
+## I missed the memo, what is it?
+
+A whistle-stop tour:
 
 > * A product owner creates a prioritized wish list called a product backlog.
 > * During sprint planning, the team pulls a small chunk from the top of that wish list, a sprint backlog, and decides how to implement those pieces.
@@ -11,4 +13,22 @@ Boy this is a mess in the software development world if ever I've seen one. SCRU
 > * At the end of the sprint, the work should be potentially shippable: ready to hand to a customer, put on a store shelf, or show to a stakeholder.
 > * The sprint ends with a sprint review and retrospective.
 > * As the next sprint begins, the team chooses another chunk of the product backlog and begins working again.
-> - [Scrum Alliance](https://www.scrumalliance.org/why-scrum)
+
+- [Scrum Alliance](https://www.scrumalliance.org/why-scrum)
+
+So nothing too special there, right? Right! I can make it super simple:
+
+Product owner - Make a list of important things to you and prioritize it.
+Team - Decide on an appropriate amount of items that you can feasibly complete within the sprint and [Just do it!](https://youtu.be/nuHfVn_cfHU)
+Scrum master - Facilitate the team in accomplishing all of the items, ensuring that it gets delivered at the end of the sprint.
+
+So why does every team think they are a boundary case? You've all heard this one, "we just work in a different way" or "we tried it and it didn't work". Something so incredibly simply cannot be that difficult to follow. Let's explore some of the common enemies of Scrum;
+
+## Enemy #1
+Typical guises: 
+Managers, company employees
+
+Quotes:
+> The team don't react to high priorities; it's better when the team can switch to what's more important.
+
+A product owner has a prioritized list of items that he/she wants to be completed by the team. Through being transparent, the team has let the product owner know what they will deliver at the end of the sprint. Often these enemies will seek to push their agenda as being the most important. Only with complete omnividence can you assess that 
