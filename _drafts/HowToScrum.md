@@ -13,7 +13,7 @@ A whistle-stop tour:
 > * At the end of the sprint, the work should be potentially shippable: ready to hand to a customer, put on a store shelf, or show to a stakeholder.
 > * The sprint ends with a sprint review and retrospective.
 > * As the next sprint begins, the team chooses another chunk of the product backlog and begins working again.
-[Scrum Alliance](https://www.scrumalliance.org/why-scrum)
+ - [Scrum Alliance](https://www.scrumalliance.org/why-scrum)
 
 So nothing too special there, right? Right! I can make it super simple:
 
