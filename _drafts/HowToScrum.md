@@ -13,7 +13,7 @@ A whistle-stop tour:
 > * At the end of the sprint, the work should be potentially shippable: ready to hand to a customer, put on a store shelf, or show to a stakeholder.
 > * The sprint ends with a sprint review and retrospective.
 > * As the next sprint begins, the team chooses another chunk of the product backlog and begins working again.
- - [Scrum Alliance](https://www.scrumalliance.org/why-scrum)
+> [Scrum Alliance](https://www.scrumalliance.org/why-scrum)
 
 So nothing too special there, right? Right! I can make it super simple:
 
@@ -43,6 +43,6 @@ Quotes:
 Interruptions and multitasking are bad for efficiency. You shouldn't feel any pressure to open your inbox or to vacate your work to appease someone. Feeling like the hero for assisting someone is great, but you've dropped the ball on your current goals; you've failed the product owner and the stakeholders. 
 
 > "Multitasking does not work," says Hanselman. "The optimal number of threads in any system is one thread. That is a computer science fact and if you think you can multitask, you're wrong."
-> - [Scott Hanselman](http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx)
+> [Scott Hanselman](http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx)
 
 When committing to the sprint backlog, the team are ensuring that the *most important* pieces of work are delivered.
