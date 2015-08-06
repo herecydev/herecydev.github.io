@@ -21,7 +21,7 @@ So nothing too special there, right? Right! I can make it super simple:
 * Team - Decide on an appropriate amount of items that you can feasibly complete within the sprint and [Just do it!](https://youtu.be/nuHfVn_cfHU)
 * Scrum master - Facilitate the team in accomplishing all of the items, ensuring that it gets delivered at the end of the sprint.
 
-So why does every team think they are a boundary case? You've all heard this one, "we just work in a different way" or "we tried it and it didn't work". Something so incredibly simply cannot be that difficult to follow. Let's explore some of the common enemies of Scrum;
+So why does every team think they are a boundary case? You've all heard this one, "we just work in a different way" or "we tried it and it didn't work". Something so incredibly simple cannot be that difficult to follow. Let's explore some of the common enemies of Scrum;
 
 ## "You need to be more reactive"
 > The team don't react to high priorities; it's better when the team can switch to what's more important.
