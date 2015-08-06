@@ -23,7 +23,7 @@ So nothing too special there, right? Right! I can make it super simple:
 
 So why does every team think they are a boundary case? You've all heard this one, "we just work in a different way" or "we tried it and it didn't work". Something so incredibly simply cannot be that difficult to follow. Let's explore some of the common enemies of Scrum;
 
-## Enemy #1: Reactive
+## Enemy #1: Being more reactive
 Typical guises: 
 Managers, company employees
 
@@ -40,7 +40,9 @@ Developers
 Quotes:
 > He said it was important; I should do it immediately.
 
+Interruptions and multitasking are bad for efficiency. You shouldn't feel any pressure to open your inbox or to vacate your work to appease someone. Feeling like the hero for assisting someone is great, but you've dropped the ball on your current goals; you've failed the product owner and the stakeholders. 
+
 > "Multitasking does not work," says Hanselman. "The optimal number of threads in any system is one thread. That is a computer science fact and if you think you can multitask, you're wrong."
 > - [Scott Hanselman](http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx)
 
-Interruptions and multitasking are bad for efficiency. By allowing yourself to 
+When committing to the sprint backlog, the team are ensuring that the *most important* pieces of work are delivered.
