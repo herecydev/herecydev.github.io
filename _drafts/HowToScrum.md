@@ -33,7 +33,7 @@ PSA for these kind of people: The display of arrogance by assuming you are more 
 ## Making priority, a.k.a. the hero developer
 > He said it was important; I should do it immediately.
 
-Interruptions and multitasking are bad for efficiency. You shouldn't feel any pressure to open your inbox or to vacate your work to appease someone. Feeling like the hero for assisting someone is great, but you've dropped the ball on your current goals; you've failed the product owner and the stakeholders. 
+Interruptions and multitasking are bad for efficiency. You shouldn't feel any pressure to open your inbox or to vacate your work to appease someone. Feeling like the hero for assisting someone is great, but you've dropped the ball on your current goals; you've failed the product owner and the stakeholders. What's worse is that you set a precedent for this behavior; you've encouraged a free-for-all!
 
 > "Multitasking does not work," says Hanselman. "The optimal number of threads in any system is one thread. That is a computer science fact and if you think you can multitask, you're wrong."
 > [Scott Hanselman](http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx)
