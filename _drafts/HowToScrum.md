@@ -23,21 +23,14 @@ So nothing too special there, right? Right! I can make it super simple:
 
 So why does every team think they are a boundary case? You've all heard this one, "we just work in a different way" or "we tried it and it didn't work". Something so incredibly simply cannot be that difficult to follow. Let's explore some of the common enemies of Scrum;
 
-## Enemy #1: Being more reactive
-Typical guises: 
-Managers, company employees
-
-Quotes:
+## You need to be more reactive
 > The team don't react to high priorities; it's better when the team can switch to what's more important.
 
 A product owner has a prioritized list of items that he/she wants to be completed by the team. Through being transparent, the team has let the product owner know what they will deliver at the end of the sprint. Often, people will seek to push their agenda as being the most important. Only with complete omnividence can you assess priority, and that's something the product owner is enlisted to do. The success of the sprint lies within the abstraction away from external influences; only through complete focus on the items at hand can a team be able to complete the sprint and deliver.
-The display of arrogance by assuming you are more important than others is **egregious**. Work with the product owner to have your features developed in due course.
 
-## Enemy #2: Making priority
-Typical guises: 
-Developers
+PSA for these kind of people: The display of arrogance by assuming you are more important than others is **egregious**. Work with the product owner to have your features developed in due course.
 
-Quotes:
+## Making priority, a.k.a. the hero developer
 > He said it was important; I should do it immediately.
 
 Interruptions and multitasking are bad for efficiency. You shouldn't feel any pressure to open your inbox or to vacate your work to appease someone. Feeling like the hero for assisting someone is great, but you've dropped the ball on your current goals; you've failed the product owner and the stakeholders. 
@@ -45,4 +38,4 @@ Interruptions and multitasking are bad for efficiency. You shouldn't feel any pr
 > "Multitasking does not work," says Hanselman. "The optimal number of threads in any system is one thread. That is a computer science fact and if you think you can multitask, you're wrong."
 > [Scott Hanselman](http://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx)
 
-When committing to the sprint backlog, the team are ensuring that the *most important* pieces of work are delivered.
+When committing to the sprint backlog, the team are ensuring that the *most important* pieces of work are delivered. That means
