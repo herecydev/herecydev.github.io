@@ -23,7 +23,7 @@ So nothing too special there, right? Right! I can make it super simple:
 
 So why does every team think they are a boundary case? You've all heard this one, "we just work in a different way" or "we tried it and it didn't work". Something so incredibly simply cannot be that difficult to follow. Let's explore some of the common enemies of Scrum;
 
-## You need to be more reactive
+## "You need to be more reactive"
 > The team don't react to high priorities; it's better when the team can switch to what's more important.
 
 A product owner has a prioritized list of items that he/she wants to be completed by the team. Through being transparent, the team has let the product owner know what they will deliver at the end of the sprint. Often, people will seek to push their agenda as being the most important. Only with complete omnividence can you assess priority, and that's something the product owner is enlisted to do. The success of the sprint lies within the abstraction away from external influences; only through complete focus on the items at hand can a team be able to complete the sprint and deliver.
