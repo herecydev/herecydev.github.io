@@ -1,6 +1,6 @@
 # How To: Scrum
 
-Boy this is a mess in the software development world if ever I've seen one. Scrum seems to be a magic word that people conjure up in an interview or to the suits. *Newsflash: It's not the 90s anymore!* Let's stop trying to impress people and start using it for what it is; a damn good development methodology. It's frustating how many people are misquoting their use Scrum. Let's clear the air on this...
+Boy this is a mess in the software development world if ever I've seen one. Scrum seems to be a magic word that people conjure up in an interview or to the suits. *Newsflash: It's not the 90s anymore!* Let's stop trying to impress people and start using it for what it is; a damn good development methodology. It's frustating how many people are misquoting their use of Scrum. Let's clear the air on this...
 
 ## I missed the memo, what is it?
 
